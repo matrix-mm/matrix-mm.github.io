@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/beinjamin"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;IT%20%20%20Consultant;Gamer%20and%20Video%20GamesPC;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/matrix-mm"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;IT%20%20%20Consultant;Gamer%20and%20Video%20GamesPC;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="mailto:jauresbeinjamin@gmail.com">
+  <a href="mailto:matrix.myanmar.mm@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
@@ -106,6 +106,6 @@ style="vertical-align:top; margin: 4px"></td>
 </table>
 
 
-<a href="https://github.com/beinjamin/beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=beinjamin&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/matrix-mm/"><img alt="matrixmm's activity graph" src="https://activity-graph.herokuapp.com/graph?username=maatrixmm&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally

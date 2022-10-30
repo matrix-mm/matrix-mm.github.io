@@ -64,20 +64,13 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
-     <td> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px"></td>
-  
-
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
@@ -86,7 +79,6 @@ style="vertical-align:top; margin: 4px"></td>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
@@ -107,6 +99,6 @@ style="vertical-align:top; margin: 4px"></td>
 </table>
 
 
-<a href="https://github.com/matrix-mm/"><img alt="matrixmm's activity graph" src="https://activity-graph.herokuapp.com/graph?username=maatrixmm&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/matrix-mm/"><img alt="matrixmm's activity graph" src="https://activity-graph.herokuapp.com/graph?username=maatrix-mm&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally

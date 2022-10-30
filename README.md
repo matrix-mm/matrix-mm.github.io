@@ -7,12 +7,12 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/jaures-beinjamin-fotsing-297069211/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jaures Beinjamin Fotsing LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/thet-naing-tun-763b25197/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="MATRiX's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/16539954/jaures-beinjamin-fotsing">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Jaures Beinjamin Fotsing Stack Overflow Profile" height="30" width="30">
+  <a href="https://stackoverflow.com/users/16991702/thet-naing">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="MATRiX's Stack Overflow Profile" height="30" width="30">
   </a>
 
   <a href="https://meta.stackexchange.com/users/1101231/jaures-beinjamin-fotsing">

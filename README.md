@@ -24,15 +24,15 @@
   </a>
   
   <a href="https://leetcode.com/beinjamin/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Jaures Beinjamin Fotsing Leetcode Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/line/line-icon.svg" alt="Jaures Beinjamin Fotsing Leetcode Profile" height="30" width="30">
   </a>
   
   <a href="https://medium.com/@jauresbeinjamin">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@jauresbeinjamin Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/viber/viber-icon.svg" alt="@jauresbeinjamin Medium Profile" height="30" width="30">
   </a>
   
-  <a href="https://twitter.com/Jaures_2020">
-    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Jaures Beinjamin Fotsing Twitter Profile" height="30" width="30">
+  <a href="https://twitter.com/thetnaing078106">
+    <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="MATRiX's Twitter Profile" height="30" width="30">
   </a>
 </p>
 </h1>

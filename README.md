@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://m.me/wai.waiyan.3">
-    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg" alt="MATRiX's Messenger Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="MATRiX's Messenger Profile" height="30" width="30">
     
   <a href="https://www.instagram.com/thetnaing.078/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="MATRiX's Instagram Profile" height="30" width="30">

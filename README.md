@@ -93,6 +93,6 @@
 </table>
 
 
-<a href="https://github.com/matrix-mm/"><img alt="matrixmm's activity graph" src="https://activity-graph.herokuapp.com/graph?username=maatrix-mm&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/matrix-mm/"><img alt="matrixmm's activity graph" src="https://activity-graph.herokuapp.com/graph?username=matrix-mm&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 #### I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally

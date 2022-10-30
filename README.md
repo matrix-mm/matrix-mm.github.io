@@ -86,7 +86,7 @@
   </tr>
 
 </table>
-
+<table>
 ### When I work
    <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 

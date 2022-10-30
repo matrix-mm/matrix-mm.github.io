@@ -19,8 +19,8 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="MATRiX's Facebook Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.hackerrank.com/jauresbeinjamin?hr_r=1">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Jaures Beinjamin Fotsing Hackerrank Profile" height="30" width="30">
+  <a href="https://www.instagram.com/thetnaing.078/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="MATRiX's Instagram Profile" height="30" width="30">
   </a>
   
   <a href="https://leetcode.com/beinjamin/">

@@ -65,8 +65,8 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" height="40" style="vertical-align:top; margin: 4px">
+    </td>    
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>

@@ -51,10 +51,10 @@
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=matrix-mm.matrix-mm" />
-<img align="right" src="https://img.shields.io/github/followers/beinjamin?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/matrix-mm?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=beinjamin&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beinjamin&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="beinjamin :: Top Langs" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=matrix-mm&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-mm&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="MATRiX :: Top Langs" />
 <img height="150px" />
 <br>
 <br>

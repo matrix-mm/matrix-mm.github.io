@@ -19,16 +19,17 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="MATRiX's Facebook Profile" height="30" width="30">
   </a>
 
+  <a href="https://m.me/wai.waiyan.3">
+    <img src="https://www.vectorlogo.zone/logos/messenger/messenger-ar21.svg" alt="MATRiX's Messenger Profile" height="30" width="30">
+    
   <a href="https://www.instagram.com/thetnaing.078/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="MATRiX's Instagram Profile" height="30" width="30">
   </a>
   
-  <a href="https://leetcode.com/beinjamin/">
+  <a href="https://line.me/ti/p/v5MEfaJSOQ">
     <img src="https://www.vectorlogo.zone/logos/line/line-icon.svg" alt="Jaures Beinjamin Fotsing Leetcode Profile" height="30" width="30">
   </a>
   
-  <a href="https://medium.com/@jauresbeinjamin">
-    <img src="https://www.vectorlogo.zone/logos/viber/viber-icon.svg" alt="@jauresbeinjamin Medium Profile" height="30" width="30">
   </a>
   
   <a href="https://twitter.com/thetnaing078106">

@@ -64,6 +64,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
@@ -80,7 +81,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
     
   </tr>
 

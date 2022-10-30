@@ -15,8 +15,8 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="MATRiX's Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="https://meta.stackexchange.com/users/1101231/jaures-beinjamin-fotsing">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Jaures Beinjamin Fotsing Stack Exchange Profile" height="30" width="30">
+  <a href="https://www.facebook.com/wai.waiyan.3">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="MATRiX's Facebook Profile" height="30" width="30">
   </a>
 
   <a href="https://www.hackerrank.com/jauresbeinjamin?hr_r=1">

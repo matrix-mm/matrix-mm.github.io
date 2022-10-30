@@ -61,6 +61,9 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
@@ -71,9 +74,6 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
   </tr>
   <tr>
@@ -81,10 +81,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>

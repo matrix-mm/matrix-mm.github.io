@@ -99,6 +99,8 @@
             </p>
         </div>
         <!-- End .education-block -->
+</div>
+    <!-- End #education -->
 
 <div id="projects" class="background-alt">
         <h2 class="heading">Projects</h2>
@@ -137,7 +139,7 @@
                 <!-- End .project -->
             </div>
         </div>
-    
+    </div>
     <!-- End #projects -->
 
 <table>

@@ -137,7 +137,7 @@
                 <!-- End .project -->
             </div>
         </div>
-    </div>
+    
     <!-- End #projects -->
 
 <table>

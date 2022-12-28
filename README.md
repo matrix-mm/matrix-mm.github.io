@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html class="no-js" lang="en">
 
 <head>
@@ -167,4 +167,3 @@
 
 <b>I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally</b>
 
-</html>

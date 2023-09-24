@@ -159,7 +159,7 @@
 <table>
   <b>When I work</b>
    <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
-[![MATRiX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matrix-mm&theme=dracula)](https://github.com/natrix-mm/github-readme-activity-graph)
+
 </table>
 
 

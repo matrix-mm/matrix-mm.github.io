@@ -163,7 +163,7 @@
 </table>
 
 
-<a href="https://github.com/matrix-mm/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=matrix-mm&bg_color=332b2b&color=0fff9f&line=00d6d6&point=4ced4c&area=true&hide_border=true" /></a>
+<a href="https://github.com/matrix-mm/"><img src="[https://github-readme-activity-graph.cyclic.app/graph?username=matrix-mm](https://github-readme-activity-graph.vercel.app/graph?username=matrix-mm&theme=dracula&bg_color=332b2b&color=0fff9f&line=00d6d6&point=4ced4c&area=true&hide_border=true" /></a>
 
 <b>I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally</b>
 

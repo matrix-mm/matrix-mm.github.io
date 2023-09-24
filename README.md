@@ -123,7 +123,7 @@
             <div class="row">
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/tgmall.jpg" />
+                        <img src="images/matrixecommerce.jpg" />
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">

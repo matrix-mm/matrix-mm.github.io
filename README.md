@@ -127,11 +127,11 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>SHANMALL E-COMMERCE</h3>
+                        <h3>MATRiX E-COMMERCE</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
                         </p>
-                        <a href="https://tgmall.epizy.com/#">View Project</a>
+                        <a href="https://matrixecommerce.cu.ma/">View Project</a>
                     </div>
                     <!-- End .project-info -->
                 </div>
